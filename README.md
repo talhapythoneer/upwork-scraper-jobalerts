@@ -1,5 +1,7 @@
 # Upwork Job Alert & Auto-Apply Bot
 
+Built by [Talha Pythoneer](https://www.talhapythoneer.com), web scraping and AI agents.
+
 ![Banner](requiredFiles/banner.png)
 
 Automates the process of finding, filtering, and applying to relevant Upwork jobs in near real-time.
